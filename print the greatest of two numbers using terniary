@@ -3,4 +3,4 @@ b=input()
 if a<b
 print("a is greater")
 else
-print("is greater")
+print("b is greater")
